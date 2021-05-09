@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-workshop",
+  "version": "1.0.0",
+  "description": "Introduction to Node JS +express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
